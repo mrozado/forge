@@ -26,5 +26,5 @@ Código de la clase de Forge sobre Exceptions y POO.
 - ¿Qué es una interfaz?
 - Diferencias entre override y overload
 
-## Doc de EF Core
+## Doc de EF Core
 https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db?tabs=visual-studio
