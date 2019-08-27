@@ -28,3 +28,4 @@ Código de la clase de Forge sobre Exceptions y POO.
 
 ## Doc de EF Core
 https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/new-db?tabs=visual-studio
+https://docs.microsoft.com/es-es/ef/core/get-started/aspnetcore/new-db?tabs=visual-studio  --> Español
